@@ -1,2 +1,5 @@
 2nd text file
+lets add new text
+git log --one line = used to show all the "sha" and commit information
+
 
