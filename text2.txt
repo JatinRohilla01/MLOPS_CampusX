@@ -10,3 +10,8 @@ I am doing new changes in main branch.
 
 This is added in sidebar branch . 
 >>>>>>> sidebar
+
+
+Lets show example of conflict in merge
+
+"This is main branch"
