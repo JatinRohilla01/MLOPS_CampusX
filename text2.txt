@@ -5,6 +5,7 @@ git log --one line = used to show all the "sha" and commit information
 Sidebar branch is created. Apart from main. 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am doing new changes in main branch.
 =======
 
@@ -15,3 +16,11 @@ This is added in sidebar branch .
 Lets show example of conflict in merge
 
 "This is main branch"
+
+
+This is added in sidebar branch . 
+
+
+
+Commits in side bar to show merge conflict
+
