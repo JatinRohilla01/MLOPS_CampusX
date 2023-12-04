@@ -4,4 +4,9 @@ git log --one line = used to show all the "sha" and commit information
 
 Sidebar branch is created. Apart from main. 
 
+<<<<<<< HEAD
 I am doing new changes in main branch.
+=======
+
+This is added in sidebar branch . 
+>>>>>>> sidebar
