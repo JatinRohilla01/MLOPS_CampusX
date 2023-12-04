@@ -6,3 +6,7 @@ Sidebar branch is created. Apart from main.
 
 
 This is added in sidebar branch . 
+
+
+
+Commits in side bar to show merge conflict
